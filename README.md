@@ -1,5 +1,7 @@
 # exoplanets — the dawn of discovery, on a sky chart
 
+[![Built with Periplum](https://img.shields.io/badge/built_with-Periplum-4da3ff)](https://periplum.js.org)
+
 The formative era of exoplanet discovery (through 2010), each planet plotted on a
 **celestial RA/Dec chart** and coloured by **detection method** — from the 1992 pulsar
 planets and 1995's 51 Pegasi b to the first transits, direct images, and microlensing
