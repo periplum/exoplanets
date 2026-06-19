@@ -1,0 +1,922 @@
+{
+ "items": [
+  {
+   "name": "PSR B1257+12 c",
+   "date": "1992-01-01",
+   "status": "Pulsar Timing",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 195.0149,
+     "dec": 12.6824,
+     "label": "PSR B1257+12 c",
+     "popup": {
+      "Method": "Pulsar Timing",
+      "Discovered": "1992"
+     }
+    }
+   ]
+  },
+  {
+   "name": "PSR B1257+12 d",
+   "date": "1992-01-01",
+   "status": "Pulsar Timing",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 195.0149,
+     "dec": 12.6824,
+     "label": "PSR B1257+12 d",
+     "popup": {
+      "Method": "Pulsar Timing",
+      "Discovered": "1992"
+     }
+    }
+   ]
+  },
+  {
+   "name": "PSR B1257+12 b",
+   "date": "1994-01-01",
+   "status": "Pulsar Timing",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 195.0149,
+     "dec": 12.6824,
+     "label": "PSR B1257+12 b",
+     "popup": {
+      "Method": "Pulsar Timing",
+      "Discovered": "1994"
+     }
+    }
+   ]
+  },
+  {
+   "name": "51 Peg b",
+   "date": "1995-01-01",
+   "status": "Radial Velocity",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 344.3675,
+     "dec": 20.7691,
+     "label": "51 Peg b",
+     "popup": {
+      "Method": "Radial Velocity",
+      "Discovered": "1995"
+     }
+    }
+   ]
+  },
+  {
+   "name": "16 Cyg B b",
+   "date": "1996-01-01",
+   "status": "Radial Velocity",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 295.4656,
+     "dec": 50.5168,
+     "label": "16 Cyg B b",
+     "popup": {
+      "Method": "Radial Velocity",
+      "Discovered": "1996"
+     }
+    }
+   ]
+  },
+  {
+   "name": "47 UMa b",
+   "date": "1996-01-01",
+   "status": "Radial Velocity",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 164.8648,
+     "dec": 40.4305,
+     "label": "47 UMa b",
+     "popup": {
+      "Method": "Radial Velocity",
+      "Discovered": "1996"
+     }
+    }
+   ]
+  },
+  {
+   "name": "55 Cnc b",
+   "date": "1996-01-01",
+   "status": "Radial Velocity",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 133.1468,
+     "dec": 28.3298,
+     "label": "55 Cnc b",
+     "popup": {
+      "Method": "Radial Velocity",
+      "Discovered": "1996"
+     }
+    }
+   ]
+  },
+  {
+   "name": "70 Vir b",
+   "date": "1996-01-01",
+   "status": "Radial Velocity",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 202.1065,
+     "dec": 13.7763,
+     "label": "70 Vir b",
+     "popup": {
+      "Method": "Radial Velocity",
+      "Discovered": "1996"
+     }
+    }
+   ]
+  },
+  {
+   "name": "tau Boo b",
+   "date": "1996-01-01",
+   "status": "Radial Velocity",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 206.8135,
+     "dec": 17.4572,
+     "label": "tau Boo b",
+     "popup": {
+      "Method": "Radial Velocity",
+      "Discovered": "1996"
+     }
+    }
+   ]
+  },
+  {
+   "name": "ups And b",
+   "date": "1996-01-01",
+   "status": "Radial Velocity",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 24.1984,
+     "dec": 41.4038,
+     "label": "ups And b",
+     "popup": {
+      "Method": "Radial Velocity",
+      "Discovered": "1996"
+     }
+    }
+   ]
+  },
+  {
+   "name": "rho CrB b",
+   "date": "1997-01-01",
+   "status": "Radial Velocity",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 240.2601,
+     "dec": 33.3002,
+     "label": "rho CrB b",
+     "popup": {
+      "Method": "Radial Velocity",
+      "Discovered": "1997"
+     }
+    }
+   ]
+  },
+  {
+   "name": "GJ 876 b",
+   "date": "1998-01-01",
+   "status": "Radial Velocity",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 343.324,
+     "dec": -14.2666,
+     "label": "GJ 876 b",
+     "popup": {
+      "Method": "Radial Velocity",
+      "Discovered": "1998"
+     }
+    }
+   ]
+  },
+  {
+   "name": "HD 168443 b",
+   "date": "1998-01-01",
+   "status": "Radial Velocity",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 275.016,
+     "dec": -9.5967,
+     "label": "HD 168443 b",
+     "popup": {
+      "Method": "Radial Velocity",
+      "Discovered": "1998"
+     }
+    }
+   ]
+  },
+  {
+   "name": "HD 187123 b",
+   "date": "1998-01-01",
+   "status": "Radial Velocity",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 296.7429,
+     "dec": 34.419,
+     "label": "HD 187123 b",
+     "popup": {
+      "Method": "Radial Velocity",
+      "Discovered": "1998"
+     }
+    }
+   ]
+  },
+  {
+   "name": "HD 195019 b",
+   "date": "1998-01-01",
+   "status": "Radial Velocity",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 307.0792,
+     "dec": 18.7693,
+     "label": "HD 195019 b",
+     "popup": {
+      "Method": "Radial Velocity",
+      "Discovered": "1998"
+     }
+    }
+   ]
+  },
+  {
+   "name": "HD 210277 b",
+   "date": "1998-01-01",
+   "status": "Radial Velocity",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 332.3748,
+     "dec": -7.5506,
+     "label": "HD 210277 b",
+     "popup": {
+      "Method": "Radial Velocity",
+      "Discovered": "1998"
+     }
+    }
+   ]
+  },
+  {
+   "name": "HD 217107 b",
+   "date": "1998-01-01",
+   "status": "Radial Velocity",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 344.5647,
+     "dec": -2.3954,
+     "label": "HD 217107 b",
+     "popup": {
+      "Method": "Radial Velocity",
+      "Discovered": "1998"
+     }
+    }
+   ]
+  },
+  {
+   "name": "OGLE-TR-56 b",
+   "date": "2002-01-01",
+   "status": "Transit",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 269.148,
+     "dec": -29.5392,
+     "label": "OGLE-TR-56 b",
+     "popup": {
+      "Method": "Transit",
+      "Discovered": "2002"
+     }
+    }
+   ]
+  },
+  {
+   "name": "PSR B1620-26 b",
+   "date": "2003-01-01",
+   "status": "Pulsar Timing",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 245.9093,
+     "dec": -26.5316,
+     "label": "PSR B1620-26 b",
+     "popup": {
+      "Method": "Pulsar Timing",
+      "Discovered": "2003"
+     }
+    }
+   ]
+  },
+  {
+   "name": "2MASS J12073346-3932539 b",
+   "date": "2004-01-01",
+   "status": "Imaging",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 181.8891,
+     "dec": -39.5484,
+     "label": "2MASS J12073346-3932539 b",
+     "popup": {
+      "Method": "Imaging",
+      "Discovered": "2004"
+     }
+    }
+   ]
+  },
+  {
+   "name": "DH Tau b",
+   "date": "2004-01-01",
+   "status": "Imaging",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 67.4232,
+     "dec": 26.5494,
+     "label": "DH Tau b",
+     "popup": {
+      "Method": "Imaging",
+      "Discovered": "2004"
+     }
+    }
+   ]
+  },
+  {
+   "name": "GQ Lup b",
+   "date": "2004-01-01",
+   "status": "Imaging",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 237.3004,
+     "dec": -35.6515,
+     "label": "GQ Lup b",
+     "popup": {
+      "Method": "Imaging",
+      "Discovered": "2004"
+     }
+    }
+   ]
+  },
+  {
+   "name": "OGLE-2003-BLG-235L b",
+   "date": "2004-01-01",
+   "status": "Microlensing",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 271.3181,
+     "dec": -28.895,
+     "label": "OGLE-2003-BLG-235L b",
+     "popup": {
+      "Method": "Microlensing",
+      "Discovered": "2004"
+     }
+    }
+   ]
+  },
+  {
+   "name": "OGLE-TR-10 b",
+   "date": "2004-01-01",
+   "status": "Transit",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 267.8677,
+     "dec": -29.8765,
+     "label": "OGLE-TR-10 b",
+     "popup": {
+      "Method": "Transit",
+      "Discovered": "2004"
+     }
+    }
+   ]
+  },
+  {
+   "name": "OGLE-TR-111 b",
+   "date": "2004-01-01",
+   "status": "Transit",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 163.3241,
+     "dec": -61.4057,
+     "label": "OGLE-TR-111 b",
+     "popup": {
+      "Method": "Transit",
+      "Discovered": "2004"
+     }
+    }
+   ]
+  },
+  {
+   "name": "OGLE-TR-113 b",
+   "date": "2004-01-01",
+   "status": "Transit",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 163.101,
+     "dec": -61.4469,
+     "label": "OGLE-TR-113 b",
+     "popup": {
+      "Method": "Transit",
+      "Discovered": "2004"
+     }
+    }
+   ]
+  },
+  {
+   "name": "OGLE-TR-132 b",
+   "date": "2004-01-01",
+   "status": "Transit",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 162.6441,
+     "dec": -61.9572,
+     "label": "OGLE-TR-132 b",
+     "popup": {
+      "Method": "Transit",
+      "Discovered": "2004"
+     }
+    }
+   ]
+  },
+  {
+   "name": "TrES-1 b",
+   "date": "2004-01-01",
+   "status": "Transit",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 286.0409,
+     "dec": 36.6325,
+     "label": "TrES-1 b",
+     "popup": {
+      "Method": "Transit",
+      "Discovered": "2004"
+     }
+    }
+   ]
+  },
+  {
+   "name": "AB Pic b",
+   "date": "2005-01-01",
+   "status": "Imaging",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 94.8039,
+     "dec": -58.0541,
+     "label": "AB Pic b",
+     "popup": {
+      "Method": "Imaging",
+      "Discovered": "2005"
+     }
+    }
+   ]
+  },
+  {
+   "name": "OGLE-2005-BLG-071L b",
+   "date": "2005-01-01",
+   "status": "Microlensing",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 267.5407,
+     "dec": -34.6732,
+     "label": "OGLE-2005-BLG-071L b",
+     "popup": {
+      "Method": "Microlensing",
+      "Discovered": "2005"
+     }
+    }
+   ]
+  },
+  {
+   "name": "OGLE-2005-BLG-390L b",
+   "date": "2005-01-01",
+   "status": "Microlensing",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 268.58,
+     "dec": -30.3773,
+     "label": "OGLE-2005-BLG-390L b",
+     "popup": {
+      "Method": "Microlensing",
+      "Discovered": "2005"
+     }
+    }
+   ]
+  },
+  {
+   "name": "CHXR 73 b",
+   "date": "2006-01-01",
+   "status": "Imaging",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 166.6194,
+     "dec": -77.6259,
+     "label": "CHXR 73 b",
+     "popup": {
+      "Method": "Imaging",
+      "Discovered": "2006"
+     }
+    }
+   ]
+  },
+  {
+   "name": "HAT-P-1 b",
+   "date": "2006-01-01",
+   "status": "Transit",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 344.4454,
+     "dec": 38.6749,
+     "label": "HAT-P-1 b",
+     "popup": {
+      "Method": "Transit",
+      "Discovered": "2006"
+     }
+    }
+   ]
+  },
+  {
+   "name": "HD 203030 b",
+   "date": "2006-01-01",
+   "status": "Imaging",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 319.7432,
+     "dec": 26.2306,
+     "label": "HD 203030 b",
+     "popup": {
+      "Method": "Imaging",
+      "Discovered": "2006"
+     }
+    }
+   ]
+  },
+  {
+   "name": "HN Peg b",
+   "date": "2006-01-01",
+   "status": "Imaging",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 326.1316,
+     "dec": 14.7715,
+     "label": "HN Peg b",
+     "popup": {
+      "Method": "Imaging",
+      "Discovered": "2006"
+     }
+    }
+   ]
+  },
+  {
+   "name": "LP 261-75 b",
+   "date": "2006-01-01",
+   "status": "Imaging",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 147.7685,
+     "dec": 35.9686,
+     "label": "LP 261-75 b",
+     "popup": {
+      "Method": "Imaging",
+      "Discovered": "2006"
+     }
+    }
+   ]
+  },
+  {
+   "name": "OGLE-2005-BLG-169L b",
+   "date": "2006-01-01",
+   "status": "Microlensing",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 271.5222,
+     "dec": -30.7326,
+     "label": "OGLE-2005-BLG-169L b",
+     "popup": {
+      "Method": "Microlensing",
+      "Discovered": "2006"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Oph 11 b",
+   "date": "2006-01-01",
+   "status": "Imaging",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 245.605,
+     "dec": -24.0872,
+     "label": "Oph 11 b",
+     "popup": {
+      "Method": "Imaging",
+      "Discovered": "2006"
+     }
+    }
+   ]
+  },
+  {
+   "name": "SWEEPS-11 b",
+   "date": "2006-01-01",
+   "status": "Transit",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 269.7583,
+     "dec": -29.1982,
+     "label": "SWEEPS-11 b",
+     "popup": {
+      "Method": "Transit",
+      "Discovered": "2006"
+     }
+    }
+   ]
+  },
+  {
+   "name": "SWEEPS-4 b",
+   "date": "2006-01-01",
+   "status": "Transit",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 269.7247,
+     "dec": -29.1891,
+     "label": "SWEEPS-4 b",
+     "popup": {
+      "Method": "Transit",
+      "Discovered": "2006"
+     }
+    }
+   ]
+  },
+  {
+   "name": "TrES-2 b",
+   "date": "2006-01-01",
+   "status": "Transit",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 286.8085,
+     "dec": 49.3164,
+     "label": "TrES-2 b",
+     "popup": {
+      "Method": "Transit",
+      "Discovered": "2006"
+     }
+    }
+   ]
+  },
+  {
+   "name": "XO-1 b",
+   "date": "2006-01-01",
+   "status": "Transit",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 240.5493,
+     "dec": 28.1696,
+     "label": "XO-1 b",
+     "popup": {
+      "Method": "Transit",
+      "Discovered": "2006"
+     }
+    }
+   ]
+  },
+  {
+   "name": "CT Cha b",
+   "date": "2007-01-01",
+   "status": "Imaging",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 166.0375,
+     "dec": -76.4554,
+     "label": "CT Cha b",
+     "popup": {
+      "Method": "Imaging",
+      "Discovered": "2007"
+     }
+    }
+   ]
+  },
+  {
+   "name": "TrES-4 b",
+   "date": "2007-01-01",
+   "status": "Transit",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 268.3043,
+     "dec": 37.2117,
+     "label": "TrES-4 b",
+     "popup": {
+      "Method": "Transit",
+      "Discovered": "2007"
+     }
+    }
+   ]
+  },
+  {
+   "name": "V0391 Peg b",
+   "date": "2007-01-01",
+   "status": "Pulsation Timing Variations",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 331.0504,
+     "dec": 26.4188,
+     "label": "V0391 Peg b",
+     "popup": {
+      "Method": "Pulsation Timing Variations",
+      "Discovered": "2007"
+     }
+    }
+   ]
+  },
+  {
+   "name": "WASP-1 b",
+   "date": "2007-01-01",
+   "status": "Transit",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 5.167,
+     "dec": 31.99,
+     "label": "WASP-1 b",
+     "popup": {
+      "Method": "Transit",
+      "Discovered": "2007"
+     }
+    }
+   ]
+  },
+  {
+   "name": "WASP-2 b",
+   "date": "2007-01-01",
+   "status": "Transit",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 307.7256,
+     "dec": 6.4293,
+     "label": "WASP-2 b",
+     "popup": {
+      "Method": "Transit",
+      "Discovered": "2007"
+     }
+    }
+   ]
+  },
+  {
+   "name": "MOA-2007-BLG-192L b",
+   "date": "2008-01-01",
+   "status": "Microlensing",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 272.0158,
+     "dec": -27.1501,
+     "label": "MOA-2007-BLG-192L b",
+     "popup": {
+      "Method": "Microlensing",
+      "Discovered": "2008"
+     }
+    }
+   ]
+  },
+  {
+   "name": "MOA-2007-BLG-400L b",
+   "date": "2008-01-01",
+   "status": "Microlensing",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 272.4249,
+     "dec": -29.2242,
+     "label": "MOA-2007-BLG-400L b",
+     "popup": {
+      "Method": "Microlensing",
+      "Discovered": "2008"
+     }
+    }
+   ]
+  },
+  {
+   "name": "OGLE-2006-BLG-109L b",
+   "date": "2008-01-01",
+   "status": "Microlensing",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 268.1438,
+     "dec": -30.0878,
+     "label": "OGLE-2006-BLG-109L b",
+     "popup": {
+      "Method": "Microlensing",
+      "Discovered": "2008"
+     }
+    }
+   ]
+  },
+  {
+   "name": "OGLE-2006-BLG-109L c",
+   "date": "2008-01-01",
+   "status": "Microlensing",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 268.1438,
+     "dec": -30.0878,
+     "label": "OGLE-2006-BLG-109L c",
+     "popup": {
+      "Method": "Microlensing",
+      "Discovered": "2008"
+     }
+    }
+   ]
+  },
+  {
+   "name": "DP Leo b",
+   "date": "2009-01-01",
+   "status": "Eclipse Timing Variations",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 169.3162,
+     "dec": 17.9616,
+     "label": "DP Leo b",
+     "popup": {
+      "Method": "Eclipse Timing Variations",
+      "Discovered": "2009"
+     }
+    }
+   ]
+  },
+  {
+   "name": "NN Ser c",
+   "date": "2010-01-01",
+   "status": "Eclipse Timing Variations",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 238.2337,
+     "dec": 12.9121,
+     "label": "NN Ser c",
+     "popup": {
+      "Method": "Eclipse Timing Variations",
+      "Discovered": "2010"
+     }
+    }
+   ]
+  },
+  {
+   "name": "NN Ser d",
+   "date": "2010-01-01",
+   "status": "Eclipse Timing Variations",
+   "placements": [
+    {
+     "map": "sky",
+     "ra": 238.2337,
+     "dec": 12.9121,
+     "label": "NN Ser d",
+     "popup": {
+      "Method": "Eclipse Timing Variations",
+      "Discovered": "2010"
+     }
+    }
+   ]
+  }
+ ]
+}

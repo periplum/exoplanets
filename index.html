@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Exoplanet Discoveries — a sky chart</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="https://cdn.jsdelivr.net/gh/periplum/periplum-core@v0.2.0/dist/periplum.js"></script>
+</head>
+<body>
+<script>
+  Periplum.render({
+    title: "Exoplanet Discoveries · a sky chart",
+    dataUrl: "data.json",
+    repo: "https://github.com/periplum/exoplanets",
+    favicon: "favicon.png",
+    theme: { headerBg: "#05060f", accent: "#b07fff" },
+    routeLabel: "Discovery order",
+    statusColors: {
+      "Radial Velocity": "#4da3ff",
+      "Transit": "#ff7f0e",
+      "Imaging": "#2ca02c",
+      "Microlensing": "#d62728",
+      "Pulsar Timing": "#b07fff",
+      "Pulsation Timing Variations": "#f4c430",
+      "Eclipse Timing Variations": "#e377c2"
+    },
+    seo: {
+      description: "The dawn of exoplanet discovery (to 2010), each planet plotted on a celestial RA/Dec chart and coloured by detection method — pulsar timing, radial velocity, transit, imaging, microlensing. Built with Periplum; data from the NASA Exoplanet Archive."
+    },
+    basemaps: [
+      { id: "sky", name: "✨ Sky", type: "celestial",
+        bounds: [[-90, 0], [90, -360]],
+        attribution: "Data: NASA Exoplanet Archive" }
+    ]
+  });
+</script>
+</body>
+</html>
