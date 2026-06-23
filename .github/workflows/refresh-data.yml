@@ -1,0 +1,24 @@
+name: Refresh data
+
+# Regenerates data.json from the NASA Exoplanet Archive (deterministic — no manual
+# curation), and uploads it as an artifact. The periplum org blocks Actions from
+# pushing or opening PRs, so download the artifact and commit the refreshed data.json.
+on:
+  schedule:
+    - cron: "0 6 1 */3 *"   # quarterly
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Regenerate data.json from NASA Exoplanet Archive
+        run: python source.py > data.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: exoplanets-data
+          path: data.json
